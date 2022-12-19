@@ -57,7 +57,7 @@ THEN I am able to successfully create, update, and delete data in my database
    then run```node .\seeds\index.js``` in order to seed the database. After this, run ```node .\server.js``` to start the server. Last step is to use Insomnia to issue 
    full CRUD commands (i.e. POST,PUT,GET, and DELETE) for 'categories', 'products', and 'tags'.
   ## Usage
-   Quickly and easily generate a clean looking HTML page with team members and their pertinent information based on their role.
+   Backend system to manage inventory for an e-commerce site.
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
   <br />
