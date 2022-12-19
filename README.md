@@ -2,9 +2,9 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
   
-   Here is a GIF of Note Taker application working:
+   Snapshot of using Insomnia to test e-commerce backend:
     <br />
-![Employee Manager](README_EmployeeTracker.gif)
+![E-commerce Backend](README_ecommerceBackend.png)
 
 ## Video Link
 
